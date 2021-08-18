@@ -4,7 +4,7 @@ The Guides project seeks to create guides out of the effective practices that we
 ### Project context
 The Guides will cover templates, how-to’s, and straightforward instructions to teach members of each communities how to 
 
-View the [insert one sheet here] WIP
+Help us write our one sheet for the project by volunteering! [insert one sheet here] 
 
 
 ### Technology used
