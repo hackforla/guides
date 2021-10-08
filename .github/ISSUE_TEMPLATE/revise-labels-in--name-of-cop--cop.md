@@ -25,3 +25,5 @@ We need to revise labels to address when items are ready for publication and whe
 [Guide Issue Template]
 [Guide Labels]
 [Guide Issues]
+
+Epic Issue #48
