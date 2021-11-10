@@ -1,5 +1,5 @@
-name: Bug Report
-description: File a bug report
+name: test of form issue
+description: testing to see what it looks like when you are able to create a new issue using a form
 title: "[Bug]: "
 labels: [bug, triage]
 assignees:
