@@ -31,3 +31,11 @@ We need an unbiased review of the gather presentation so that we can improve it.
 - Guide you are working on
    - Name of guide
    - URL of guide Issue
+
+
+### When you do your update please provide
+1. Progress: "What is the current status of your project? What have you completed and what is left to do?"
+2. Blockers: "Difficulties or errors encountered."
+3. Availability: "How much time will you have this week to work on this issue?"
+4. ETA: "When do you expect this issue to be completed?"
+5. Pictures (if necessary): "Add any pictures that will help illustrate what you are working on."
