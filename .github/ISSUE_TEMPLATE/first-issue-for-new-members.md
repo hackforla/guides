@@ -10,9 +10,12 @@ assignees: ''
 ### Overview
 We need an unbiased review of the gather presentation so that we can improve it.
 
+#### Additional Details
+You will be working on guide during this issue, but the purpose of this issue is to evaluate and improve the Gather Examples and Interview Teams presentation.  So any notes you have about the guide you will be making should be noted in the issue related to the Guide you choose.
+
 ### Action Items
 - [ ] Create a google doc, with the name ```GT: Notes on Gather presentation - YOUR NAME HERE``` in the Gather Examples folder (customize with your name)
-- [ ] Add to the notes document as you go, with any observations, no matter how small.
+- [ ] Add to the notes document as you go, with observations about the Gather Presentation.  You will encounter some issues, such as font size or other types of formatting changes, what we are looking for though is material changes to the instructions.  For instance, if something could use a screenshot to make it clearer, and it doesn't have one or when you try to follow the steps, something is missing.
 - [ ] Review the Presentation for Gathering Examples
 - [ ] Pick a guide 
    - [ ] Note the Name of guide and URL of the guide in the comments below
