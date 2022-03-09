@@ -2,7 +2,7 @@
 name: First Issue for new members
 about: Each new team member starts with this issue.
 title: 'Onboarding: [NAME HERE]'
-labels: 'p-feature: guidance, role: Product, size: 1pt'
+labels: 'feature: onboarding, p-feature: guidance, role: Product, size: 1pt'
 assignees: ''
 
 ---
