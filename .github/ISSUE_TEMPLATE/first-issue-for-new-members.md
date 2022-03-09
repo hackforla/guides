@@ -17,6 +17,7 @@ You will be working on guide during this issue, but the purpose of this issue is
 
 ### Action Items
 - [ ] Create a Google doc, with the name ```GT: Notes on Gather presentation - YOUR NAME HERE``` in the Gather Examples folder (customize with your name)
+   - [ ] Add the link to the document and its name in the Resources section below
 - [ ] Add to the notes document as you go, with observations about the Gather Presentation.  You will encounter some issues, such as font size or other types of formatting changes, what we are looking for though is material changes to the instructions.  For instance, if something could use a screenshot to make it clearer, and it doesn't have one or when you try to follow the steps, something is missing.
    - [ ] If while looking at the presentation (not the guide), you encounter any words that you think should be added to our glossary,  please add them to the Glossary issue as comments.
 - [ ] Review the Presentation for Gathering Examples
