@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+### Prerequisite
+- You have done the steps in this wiki page for onboarding new team members https://github.com/hackforla/guides/wiki/Joining-the-Team
+
 ### Overview
 We need an unbiased review of the gather presentation so that we can improve it.
 
