@@ -18,5 +18,5 @@ For more detail please read our [Overview](https://docs.google.com/document/d/1P
 - [Join the HackforLA slack workspace](https://hackforla.org/slack)
 - Join the slack channel [#guides](https://hackforla.slack.com/archives/C028T9XU9S5) and say hi! Tell us your skillset and how you're looking to contribute.
 - One of our product managers will add you to the meeting invite & the project resources
-- Join our team meetings (these are subject to change based on need, if you can't make these times but you want to be on teh team, let us know your availability on slack).
-  - Monday & Friday 7:30-9:00 am (PDT) / 3:30-5:00 pm (WAT)
+- Join our team meetings (these are subject to change based on need, if you can't make these times but you want to be on the team, let us know your availability on slack).
+  - Friday 7:30-9:00 am (PDT) / 3:30-5:00 pm (WAT)
